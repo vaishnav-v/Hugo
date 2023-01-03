@@ -1,5 +1,6 @@
 baseURL = ''
 title = 'Hugo Book'
+theme = 'hugo-book'
 
 
 disablePathToLower = true
