@@ -1,41 +1,11 @@
 ---
-title: Introduction
+title: Welcome
 type: docs
 ---
 
-# Acerbo datus maxime
+# Welcome
 
-{{< columns >}}
-## Astris ipse furtiva
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
-
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+Have you ever thought there is something wrong about our world ? Well I did ... ! 
 
 
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+And all the people who changed the world did at some poient of their life.And this website is a   is for those who is hated by society but it more focus on mens rights. There are very less people talking about it. This will help anyone confused. The aim of the book is to make a clarty on peoples mind .Thank you for reading.

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Book</title>
+    <link>https://example.com/docs/men/</link>
+    <description>Recent content on Hugo Book</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/docs/men/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://example.com/docs/men/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/men/intro/</guid>
+      <description>Men#This is an attempt open up men.To let them grow and liberate from the shackles of gender role..To be the provider, protecter,etc&amp;hellip; Women have choice. But not men.We dont have any.The only way forward is to have a full time employment. Men have suffered and because they dont speak up no one really listoned.
+h#</description>
+    </item>
+    
+    <item>
+      <title>Men Today</title>
+      <link>https://example.com/docs/men/men_today/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/men/men_today/</guid>
+      <description>Men Today#</description>
+    </item>
+    
+  </channel>
+</rss>
