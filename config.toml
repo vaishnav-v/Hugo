@@ -3,4 +3,4 @@ title = 'Hugo Book'
 
 
 disablePathToLower = true
-enableGitInfo = true
+enableGitInfo = false
